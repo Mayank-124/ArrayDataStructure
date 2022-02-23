@@ -65,6 +65,9 @@
           arrPtr[i] = arrPtr[i] + arrPtr[arraySize-i-1];                 // Swapping
           arrPtr[arraySize-i-1] = arrPtr[i] - arrPtr[arraySize-i-1];
           arrPtr[i] = arrPtr[i] -arrPtr[arraySize-i-1];
+        
+        /* Just checking the how the pull request works kindly accept the request*/
+        
        }
     }
  }
